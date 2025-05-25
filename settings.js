@@ -57,8 +57,8 @@ global.footer = "33333 ☠️ ✨" //Ganti aja serah
 global.ttowner = 'Lalisa' //NAMA TIKTOK LU
 global.namafile = 'Suki 🛍' // Ganti aja
 global.ownername = '33333 ☠️ | ᴅᴇᴠ' //NAMA LU
-global.owner = ['6285656725298'] // SETTING JUGA DI FOLDER DATABASE 
-global.ownernomer = '6285656715298' // NOMOR LU YANG MAU JDI OWNER
+global.owner = ['6281230697568'] // SETTING JUGA DI FOLDER DATABASE 
+global.ownernomer = '6281230697568' // NOMOR LU YANG MAU JDI OWNER
 global.socialm = 'GitHub: -'
 global.location = 'Indonesia' 
 global.nameCreator = '33333 ☠️ | ᴅᴇᴠ'
@@ -84,8 +84,8 @@ global.anovo = '085656715298' // KOSONG KAN JIKA TIDAK ADA
 
 //==================SETTING BOT===========================\\
 global.botname = "DRAGON | MD ✨" //NAMA BOT LU
-global.ownernumber = '6285656715298' //NOMOR LU
-global.botnumber = '6285656715298' //NOMOR LU
+global.ownernumber = '6281230697568' //NOMOR LU
+global.botnumber = '6287750306472' //NOMOR LU
 global.ownername = '33333 ☠️ | ᴅᴇᴠ' //NAMA LU
 global.idSaluran = "120363202832071259@newsletter"//ID SALURAN LU
 global.idch = "120363202832071259@newsletter"//ID SALURAN LU
